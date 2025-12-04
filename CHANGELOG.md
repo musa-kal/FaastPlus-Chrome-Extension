@@ -1,5 +1,20 @@
 # Changelog
 
+## v0.1.42 \[pending\]
+
+### Added or Changed
+- license keys added:
+  - Now users will require [license keys](https://github.com/Musa-Kal/FaastPlus-Chrome-Extension?tab=readme-ov-file#claim-license-key) to access some features.
+- U.I improvements. 
+- Bugfix & Optimization.
+
+## v0.1.41
+
+### Added or Changed
+- Daily productivity view now has filters.
+- U.I improvements. 
+- Bugfix & Optimization.
+
 ## v0.1.40
 
 ### Added or Changed
