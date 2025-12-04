@@ -237,12 +237,13 @@ This extension has 3 main components to it, Popup, Options Window and Content Sc
               <summary>P.A View</summary>
               <br>
               <div align="center">
-                <img src="images/PA-View-ReadyToPick.png" alt="faast-plus-P.A-view-ready-to-pick-screenshot" width="50%">
+                <img src="images/picktask-sort-demo.gif" alt="faast-plus-P.A-view-ready-to-pick-screenshot" width="50%">
                 <p>Image of Ready To Pick section with Fast Plus [P.A View].</p>
               </div>
               
               - This feature is only available in P.A view.
               - A group of 3 numbers will appear at top of page displaying a summary of segmented lines.
+                - Clicking on the any of 3 groups will sort the segmented lines by that group type in descending order. 
               - The line with multiple segments in ready to pick section, each segments represent a share of pick-task assignee for all pick-tasks being displayed in the ready to pick section.
               - The segments are displayed in descending order.
               - A more detail view of that segment can be shown by click of the that segment.

@@ -1,6 +1,13 @@
 # Changelog
 
-## v0.1.42 \[pending\]
+## v0.1.43
+
+### Added or Changed
+- Now Pick Task allocation bars in ready to pick section can be sorted by total orders, pick-tasks or units.
+- U.I improvements. 
+- Bugfix & Optimization.
+
+## v0.1.42
 
 ### Added or Changed
 - license keys added:
