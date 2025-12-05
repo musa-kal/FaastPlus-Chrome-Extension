@@ -386,7 +386,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email - musakaleem1411+github@gmail.com
 
-LinkedIn - [https://linkedin.com/in/musa-kaleem-122249294](https://linkedin.com/in/musa-kaleem-122249294)
+LinkedIn - [linkedin.com/in/musa-kal](https://www.linkedin.com/in/musa-kal)
 
 Project Link - [https://github.com/Musa-Kal/FaastPlus-Chrome-Extension](https://github.com/Musa-Kal/FaastPlus-Chrome-Extension)
 
@@ -417,4 +417,4 @@ Project Link - [https://github.com/Musa-Kal/FaastPlus-Chrome-Extension](https://
 [license-shield]: https://img.shields.io/github/license/Musa-Kal/FaastPlus-Chrome-Extension.svg?style=for-the-badge
 [license-url]: https://github.com/Musa-Kal/FaastPlus-Chrome-Extension/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/musa-kaleem-122249294
+[linkedin-url]: https://www.linkedin.com/in/musa-kal
